@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-
-  # Landing Page Frame Design
-
-  This is a code bundle for Landing Page Frame Design. The original project is available at https://www.figma.com/design/haVRXQzerl3YHZIuxpawiC/Landing-Page-Frame-Design.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
-=======
 # 🚀 Fundraising Landing Page (Web3 Ticketing System)
 
 ## 📌 Overview
@@ -119,4 +106,3 @@ This project is developed for client use. Licensing terms may vary based on agre
 ## 👨‍💻 Author
 
 Developed as a freelance project for a client in Nigeria.
->>>>>>> 88cf52f8d628cb4b02936a49b104b6c66d45f55a
